@@ -3,16 +3,16 @@
 I'm a **Backend Software Engineer** passionate about building scalable systems, especially in the **fintech** and **crypto** space.
 
 - 🔭 Currently working with **Java** & **Spring Boot**
-- ⚡ Enjoy exploring **Go** and **Kotlin**
+- ⚡ Enjoy exploring **Go**, **Node** and **Solidity**
 - 💡 Interested in contributing to **open source** projects
 
 ## 🚀 Tech Stack
-- **Languages:** Java, Go, Kotlin
+- **Languages:** Java, Kotlin
 - **Frameworks:** Spring Boot
 - **Focus:** Backend architecture, APIs, distributed systems
 
 ## 🌱 What I’m up to
-- Diving deeper into Go & Kotlin for backend services
+- Diving deeper into Go & Node for backend services
 - Looking for meaningful open source projects to contribute to
 - Contribute in web3 learning solidity to develop eth projects
 
